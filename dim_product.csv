@@ -1,0 +1,66 @@
+product_id,product_name,category,sub_category
+PRD-0001,Pro Chair A1,Furniture,Chairs
+PRD-0002,Prime Chair B2,Furniture,Chairs
+PRD-0003,Smart Chair C3,Furniture,Chairs
+PRD-0004,Basic Chair D4,Furniture,Chairs
+PRD-0005,Deluxe Chair E5,Furniture,Chairs
+PRD-0006,Elite Table A6,Furniture,Tables
+PRD-0007,Compact Table B7,Furniture,Tables
+PRD-0008,Classic Table C8,Furniture,Tables
+PRD-0009,Eco Table D9,Furniture,Tables
+PRD-0010,Ultra Table E10,Furniture,Tables
+PRD-0011,Pro Bookcase A11,Furniture,Bookcases
+PRD-0012,Prime Bookcase B12,Furniture,Bookcases
+PRD-0013,Smart Bookcase C13,Furniture,Bookcases
+PRD-0014,Basic Bookcase D14,Furniture,Bookcases
+PRD-0015,Deluxe Bookcase E15,Furniture,Bookcases
+PRD-0016,Elite Furnishing A16,Furniture,Furnishings
+PRD-0017,Compact Furnishing B17,Furniture,Furnishings
+PRD-0018,Classic Furnishing C18,Furniture,Furnishings
+PRD-0019,Eco Furnishing D19,Furniture,Furnishings
+PRD-0020,Ultra Furnishing E20,Furniture,Furnishings
+PRD-0021,Pro Binder A21,Office Supplies,Binders
+PRD-0022,Prime Binder B22,Office Supplies,Binders
+PRD-0023,Smart Binder C23,Office Supplies,Binders
+PRD-0024,Basic Binder D24,Office Supplies,Binders
+PRD-0025,Deluxe Binder E25,Office Supplies,Binders
+PRD-0026,Elite Paper A26,Office Supplies,Paper
+PRD-0027,Compact Paper B27,Office Supplies,Paper
+PRD-0028,Classic Paper C28,Office Supplies,Paper
+PRD-0029,Eco Paper D29,Office Supplies,Paper
+PRD-0030,Ultra Paper E30,Office Supplies,Paper
+PRD-0031,Pro Storage A31,Office Supplies,Storage
+PRD-0032,Prime Storage B32,Office Supplies,Storage
+PRD-0033,Smart Storage C33,Office Supplies,Storage
+PRD-0034,Basic Storage D34,Office Supplies,Storage
+PRD-0035,Deluxe Storage E35,Office Supplies,Storage
+PRD-0036,Elite Art A36,Office Supplies,Art
+PRD-0037,Compact Art B37,Office Supplies,Art
+PRD-0038,Classic Art C38,Office Supplies,Art
+PRD-0039,Eco Art D39,Office Supplies,Art
+PRD-0040,Ultra Art E40,Office Supplies,Art
+PRD-0041,Pro Label A41,Office Supplies,Labels
+PRD-0042,Prime Label B42,Office Supplies,Labels
+PRD-0043,Smart Label C43,Office Supplies,Labels
+PRD-0044,Basic Label D44,Office Supplies,Labels
+PRD-0045,Deluxe Label E45,Office Supplies,Labels
+PRD-0046,Elite Phone A46,Technology,Phones
+PRD-0047,Compact Phone B47,Technology,Phones
+PRD-0048,Classic Phone C48,Technology,Phones
+PRD-0049,Eco Phone D49,Technology,Phones
+PRD-0050,Ultra Phone E50,Technology,Phones
+PRD-0051,Pro Accessory A51,Technology,Accessories
+PRD-0052,Prime Accessory B52,Technology,Accessories
+PRD-0053,Smart Accessory C53,Technology,Accessories
+PRD-0054,Basic Accessory D54,Technology,Accessories
+PRD-0055,Deluxe Accessory E55,Technology,Accessories
+PRD-0056,Elite Copier A56,Technology,Copiers
+PRD-0057,Compact Copier B57,Technology,Copiers
+PRD-0058,Classic Copier C58,Technology,Copiers
+PRD-0059,Eco Copier D59,Technology,Copiers
+PRD-0060,Ultra Copier E60,Technology,Copiers
+PRD-0061,Pro Machine A61,Technology,Machines
+PRD-0062,Prime Machine B62,Technology,Machines
+PRD-0063,Smart Machine C63,Technology,Machines
+PRD-0064,Basic Machine D64,Technology,Machines
+PRD-0065,Deluxe Machine E65,Technology,Machines
